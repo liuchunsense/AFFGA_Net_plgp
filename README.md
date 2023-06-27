@@ -29,4 +29,4 @@ https://drive.google.com/file/d/19FaSnMmUCa8yjpkX-jgucA0D5wRsNWe0/view?usp=drive
 
 ## 4 Test Network
 
-Please refer to the testing benchmark of ODG-Generation ([https://github.com/liuchunsense/ODG-Generation](https://github.com/liuchunsense/ODG-Generation)https://github.com/liuchunsense/ODG-Generation).
+Please refer to the testing benchmark of ODG-Generation ([https://github.com/liuchunsense/ODG-Generation](https://github.com/liuchunsense/ODG-Generation)).
